@@ -1,4 +1,4 @@
-# MonikaGenerator
+# Monika's Random Advice Generator
 
 Important Notice
 -----
