@@ -5,8 +5,9 @@ Important Notice
 This program is NOT affiliated with Dan Salvato LLC, the copyright holder of "Doki Doki Literature Club" as of 2018.
 This program is not official "Doki Doki Literature Club content" (although some official assets are used within
 this program), and this program's creator, ButtermilkPaincakes, is not affiliated with Dan Salvato LLC to any extent.
-This program is completely useless if you have not already completed the official "Doki Doki Literature Club"
-in its entirety, which may be found online at https://ddlc.moe/ .
+
+If you have not completed the official "Doki Doki Literature Club" in its entirety, this program will be useless.
+Please do play the official game, which may be found online at https://ddlc.moe/ .
 
 Basic Program Details
 -----
